@@ -30,3 +30,17 @@
     </footer>
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0d1117;
+  color: white;
+  text-align: center;
+}
+header {
+  background-color: #161b22;
+  padding: 20px;
+}
+section {
+  margin: 20px;
+}
+
